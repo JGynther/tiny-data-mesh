@@ -28,10 +28,7 @@
 
             # Python
             python3
-            python3Packages.pip
-
-            # Spark
-            spark
+            python3Packages.pyspark
           ];
 
           shellHook = ''
